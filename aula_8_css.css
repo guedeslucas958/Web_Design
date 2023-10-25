@@ -1,0 +1,50 @@
+body{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.p_aula8, .p_aula8.p1, .p_aula8.p2{
+    font-size: 18px;
+    border: 1px solid #0C1821;
+    width: 700px;
+    padding: 0px;
+    margin: auto;
+}
+
+.p_aula8.p1 span{
+    border: 2px solid rgb(255, 251, 0);
+    padding-bottom: 100px;
+    display: inline-block;
+}
+
+.ul_aula8{
+    margin-top: 0%;
+    margin-left: 19%;
+    margin-right: 19%;
+    margin-bottom: 0%;
+    border: 0.5px solid #0C1821;
+    background-color:#324A5F;
+    font-size: 18px;
+}
+.ul_aula8 li::marker {
+    content: "🥺";
+    display: inline-block;
+    margin-right: 5px;
+}
+li:hover{
+    content: "😃";
+}
+.a_aula8{
+    color: #CCC9DC;
+}
+.a_aula8:hover{
+    background-color:#CCC9DC ;
+    color: #1B2A41;
+}
+.h1_aula8:hover{
+    color: #324A5F;
+}
+
+
+
